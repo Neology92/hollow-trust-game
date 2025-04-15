@@ -1,6 +1,6 @@
 import random
 
-class FactionAI:
+class FactionAPI:
     def __init__(self, faction, all_factions):
         self.faction = faction
         self.all_factions = all_factions
